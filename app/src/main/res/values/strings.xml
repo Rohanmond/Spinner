@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="branches">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>PET</item>
+        <item>Mechanical</item>
+        <item>CIVIL</item>
+    </string-array>
+</resources>
